@@ -49,7 +49,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 ### M.
 * [MATLAB](/MATLAB)
 ### N.
-* [NODEJS] [/NODEJS]
 ### O.
 * [Objective-C](/Objective-C)
 ### P.
